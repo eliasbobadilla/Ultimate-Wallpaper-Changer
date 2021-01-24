@@ -2,7 +2,7 @@
   "description": "Wallpaper changer for GNOME",
   "name": "Ultimate Wallpaper Changer",
   "shell-version": ["3.36"],
-  "url": "https://github.com/eliasbobadilla",
+  "url": "https://github.com/eliasbobadilla/Ultimate-Wallpaper-Changer",
   "uuid": "ultimate-wallpaper-changer@eliasbobadilla",
   "version": 1
 }
