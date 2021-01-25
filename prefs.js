@@ -1,7 +1,6 @@
 const Lang = imports.lang;
 
-const Gtk = imports.gi.Gtk;
-const Gio = imports.gi.Gio;
+const { Gio, Gtk } = imports.gi;
 
 const Self = imports.misc.extensionUtils.getCurrentExtension();
 const Utils = Self.imports.utils;

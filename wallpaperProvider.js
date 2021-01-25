@@ -1,7 +1,6 @@
 const Lang = imports.lang;
 
-const Gio = imports.gi.Gio;
-const Gtk = imports.gi.Gtk;
+const { Gio, Gtk } = imports.gi;
 
 const Signals = imports.signals;
 

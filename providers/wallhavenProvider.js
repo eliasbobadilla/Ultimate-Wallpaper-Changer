@@ -1,8 +1,6 @@
 const Lang = imports.lang;
 
-const Gio = imports.gi.Gio;
-const GLib = imports.gi.GLib;
-const Soup = imports.gi.Soup;
+const { Gio, GLib, Soup } = imports.gi;
 
 const Self = imports.misc.extensionUtils.getCurrentExtension();
 const Utils = Self.imports.utils;
@@ -125,7 +123,7 @@ const Provider = new Lang.Class({
         OPTIONS.order = this.settings.get_string('order');
 
         this.settingsTimer = GLib.timeout_add_seconds(GLib.PRIORITY_DEFAULT,
-            10,
+            50,
             Lang.bind(this, function () {
                 this._resetWallpapers();
                 return false;
