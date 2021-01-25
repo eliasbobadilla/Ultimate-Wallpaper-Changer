@@ -123,7 +123,7 @@ const Provider = new Lang.Class({
         OPTIONS.order = this.settings.get_string('order');
 
         this.settingsTimer = GLib.timeout_add_seconds(GLib.PRIORITY_DEFAULT,
-            50,
+            20,
             Lang.bind(this, function () {
                 this._resetWallpapers();
                 return false;

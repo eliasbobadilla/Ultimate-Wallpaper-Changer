@@ -1,7 +1,9 @@
 const Lang = imports.lang;
 
 const { Gio, Gtk, GLib, St } = imports.gi;
-const { Main, PanelMenu, PopupMenu } = imports.ui;
+const Main = imports.ui.main;
+const PanelMenu = imports.ui.panelMenu;
+const PopupMenu = imports.ui.popupMenu;
 
 const Util = imports.misc.util;
 const Self = imports.misc.extensionUtils.getCurrentExtension();
