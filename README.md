@@ -1,4 +1,5 @@
 # Ultimate Wallpaper Changer
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://github.com/eliasbobadilla/Ultimate-Wallpaper-Changer/commits/main) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org) 
 
 
 This is a GNOME extension to change wallpapers from local and online providers.
@@ -9,3 +10,9 @@ For use Wallhaven provider is recommending to create your own Wallhaven account,
 
 ### Contributing:
 If you know newer wallpaper providers, please let me know [here](https://github.com/eliasbobadilla/Ultimate-Wallpaper-Changer/issues).
+
+<p align="left">
+    <a href=" " >
+        <img src="https://raw.githubusercontent.com/home-sweet-gnome/dash-to-panel/e4a71fa014b565171c93d15f436be9c3599b11fb/media/design/svg/Gnome_logo.svg" width="120px"/>
+    </a>
+</p>
