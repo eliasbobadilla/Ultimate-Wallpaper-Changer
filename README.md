@@ -11,7 +11,10 @@ git clone https://github.com/eliasbobadilla/Ultimate-Wallpaper-Changer.git ~/.lo
 cd ~/.local/share/gnome-shell/extensions/ultimate-wallpaper-changer@eliasbobadilla
 glib-compile-schemas ./schemas/
 ```
-
+Or...
+```
+curl https://raw.githubusercontent.com/eliasbobadilla/Ultimate-Wallpaper-Changer/main/install.sh | bash
+```
 
 ### Notes:
 For use Wallhaven provider is recommending to create your own Wallhaven account, then in your account settings you must get your API key and put it in the extension settings. Or you can use mine: **McHvJ0o8nkxes4gNccXWn3RbgPST5vl5** 
