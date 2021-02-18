@@ -1,5 +1,5 @@
 {
-  "description": "Wallpaper changer for GNOME, fork of Wallpaper Changer by Jomik (Jonas Damtoft).",
+  "description": "The Ultimate Wallpaper changer for GNOME, fork of Wallpaper Changer by Jomik (Jonas Damtoft).",
   "name": "Ultimate Wallpaper Changer",
   "shell-version": ["3.36"],
   "url": "https://github.com/eliasbobadilla/Ultimate-Wallpaper-Changer",
