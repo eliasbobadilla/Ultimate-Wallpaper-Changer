@@ -3,7 +3,7 @@
 
 
 This is a GNOME extension to change wallpapers from local and online providers.
-This repository is a fork of **Jomik/gnome-wallpaper-changer**, but updated, with some fixes and new image providers.
+This repository is a fork of [**Jomik/gnome-wallpaper-changer**](https://github.com/Jomik/gnome-wallpaper-changer), but updated, with some fixes and new image providers.
 
 ## Install instructions
 ```
