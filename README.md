@@ -13,7 +13,7 @@ glib-compile-schemas ./schemas/
 ```
 Or...
 ```
-curl https://raw.githubusercontent.com/eliasbobadilla/Ultimate-Wallpaper-Changer/main/install.sh | bash
+curl https://git.io/Jt7D4 | bash
 ```
 
 ### Notes:
